@@ -1018,6 +1018,115 @@
             }
         ]
     },
+    "Daitaku Helios": {
+        "name": "Daitaku Helios",
+        "mandatoryRaces": [
+            {
+                "turn": 23,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Hanshin Juvenile Fillies",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Mile",
+                        "fans": 6500
+                    }
+                ]
+            },
+            {
+                "turn": 34,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Aoi Stakes",
+                        "grade": "G3",
+                        "surface": "Turf",
+                        "distanceType": "Sprint",
+                        "fans": 3800
+                    }
+                ]
+            },
+            {
+                "turn": 46,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Mile Championship",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Mile",
+                        "fans": 11000
+                    }
+                ]
+            },
+            {
+                "turn": 54,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Takamatsunomiya Kinen",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Sprint",
+                        "fans": 13000
+                    }
+                ]
+            },
+            {
+                "turn": 56,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Milers Cup",
+                        "grade": "G2",
+                        "surface": "Turf",
+                        "distanceType": "Mile",
+                        "fans": 5900
+                    }
+                ]
+            },
+            {
+                "turn": 59,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Yasuda Kinen",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Mile",
+                        "fans": 13000
+                    }
+                ]
+            },
+            {
+                "turn": 70,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Mile Championship",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Mile",
+                        "fans": 11000
+                    }
+                ]
+            },
+            {
+                "turn": 72,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Arima Kinen",
+                        "grade": "G1",
+                        "surface": "Turf",
+                        "distanceType": "Long",
+                        "fans": 30000
+                    }
+                ]
+            }
+        ]
+    },
     "Daiwa Scarlet": {
         "name": "Daiwa Scarlet",
         "mandatoryRaces": [
@@ -2258,6 +2367,122 @@
                         "surface": "Turf",
                         "distanceType": "Long",
                         "fans": 30000
+                    }
+                ]
+            }
+        ]
+    },
+    "Hokko Tarumae": {
+        "name": "Hokko Tarumae",
+        "mandatoryRaces": [
+            {
+                "turn": 39,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Leopard Stakes",
+                        "grade": "G3",
+                        "surface": "Dirt",
+                        "distanceType": "Mile",
+                        "fans": 4000
+                    }
+                ]
+            },
+            {
+                "turn": 47,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Champions Cup",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Mile",
+                        "fans": 10000
+                    }
+                ]
+            },
+            {
+                "turn": 51,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Kawasaki Kinen",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Medium",
+                        "fans": 6000
+                    }
+                ]
+            },
+            {
+                "turn": 57,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Kashiwa Kinen",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Mile",
+                        "fans": 8000
+                    }
+                ]
+            },
+            {
+                "turn": 60,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Teio Sho",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Medium",
+                        "fans": 6000
+                    }
+                ]
+            },
+            {
+                "turn": 69,
+                "isChoice": true,
+                "options": [
+                    {
+                        "raceName": "JBC Classic",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Medium",
+                        "fans": 8000
+                    },
+                    {
+                        "raceName": "JBC Classic",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Mile",
+                        "fans": 8000
+                    }
+                ]
+            },
+            {
+                "turn": 71,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Champions Cup",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Mile",
+                        "fans": 10000
+                    }
+                ]
+            },
+            {
+                "turn": 72,
+                "isChoice": false,
+                "options": [
+                    {
+                        "raceName": "Tokyo Daishoten",
+                        "grade": "G1",
+                        "surface": "Dirt",
+                        "distanceType": "Medium",
+                        "fans": 8000
                     }
                 ]
             }
