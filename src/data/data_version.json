@@ -1,15 +1,15 @@
 {
-    "version": "2026-10-21T16:56:12Z",
-    "label": "Kitasan Black (New Year) 2026-10-20",
+    "version": "2026-11-10T19:12:06Z",
+    "label": "Ines Fujin (Valentine) 2026-11-09",
     "minAppVersion": "5.8.8",
     "files": {
-        "characters.json": "69a001a1426d023d7fd3bf0954ebb6a6",
-        "supports.json": "1740bd20914fa64d0f7023e7d16f938f",
-        "skills.json": "da7199f4a2893ef2d5bcb23ae1f20765",
-        "epithets.json": "a23ddb5d698c23ace288b09911bfdcb0",
-        "characterPresets.json": "751900ee7bbf8a92cd32c132b1f47f6b",
-        "character_objectives.json": "5c7a2d8628af04b76eb63158cd087985",
-        "traineeCards.json": "cf6811ede186da1c5efbc8d2bb0e5930",
-        "supportCards.json": "632e83deb3d8305d63d132344833b74f"
+        "characters.json": "c883c5dc79c94a64fc5058ab8767070b",
+        "supports.json": "b739079cff3a53887b176a1b0c17a523",
+        "skills.json": "64a8ae4c4bd10c6ca46abc31ee6bbdc1",
+        "epithets.json": "bb3a4ae25c0308e9452f49994ad0e3b0",
+        "characterPresets.json": "4443f003153a9b04ea4caa2b88228681",
+        "character_objectives.json": "cc86cb5008c7c3d9ecb6dba44aa03e36",
+        "traineeCards.json": "4852c54034c561ee8523edfcbd464893",
+        "supportCards.json": "db15e57575091c878c3ffd9b98712470"
     }
 }
